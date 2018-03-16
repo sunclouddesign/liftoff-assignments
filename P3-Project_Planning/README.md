@@ -1,12 +1,6 @@
 # Project Planning
 
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
-
-### Wireframes
+## Wireframes
 
 [Wireframes](./event_log-wireframes.pdf)
 
@@ -16,7 +10,7 @@ The linked PDF includes four wireframes:
 - Event details page
 - Edit event details page
 
-### Project Tracker
+## Project Tracker
 
 [Event Log Project Tracker](https://www.pivotaltracker.com/n/projects/2157573)
 
