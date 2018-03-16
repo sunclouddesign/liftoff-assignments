@@ -1,15 +1,25 @@
 # Project Planning
+
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
-## Submission Instructions
+[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+[Wireframes](./event_log-wireframes.pdf)
+
+The linked PDF includes four wireframes:
+- Login page
+- Upcoming events page
+- Event details page
+- Edit event details page
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Event Log Project Tracker](https://www.pivotaltracker.com/n/projects/2157573)
+
+I added several user stories, which will extend through the current sprint and beyond. Here's a screenshot for posterity:
+
+![Spring 1 Stories](./sprint_1_stories.png)
