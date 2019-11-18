@@ -27,3 +27,7 @@ This project was motivated by the need of a nonprofit organization that wants a 
 For the login functionality, I'll have to learn something new in either scenario. If I choose to use native login functionality for the site, I'll need to learn how to use the login approach outlined in the [`spring-filter-based-auth` repository](https://github.com/LaunchCodeEducation/spring-filter-based-auth). If I choose to use third-party authentcation, I'll need to learn how to use an OAuth2 provider such as Google Authentication.
 
 I'll also be using test-driven development, writing tests for my code before writing the code itself. I don't have much experience doing this in Spring, so I'll have to learn how to use its testing capabilities.
+
+## Project Tracker
+
+https://trello.com/b/1q0C72Eu/launchcode-project-planning
